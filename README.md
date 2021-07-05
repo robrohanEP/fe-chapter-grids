@@ -2,11 +2,15 @@
 
 ## Flexbox vs Grid
 
+Flexbox is good for single row and column kind of things...
+
 ```
 FlexBox ->
    |
    \/
 ```
+
+Grid is for magic
 
 ## Responsive
 
